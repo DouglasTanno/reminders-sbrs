@@ -1,0 +1,1 @@
+SessionId	Time	ItemId	UserId
