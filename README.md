@@ -9,8 +9,8 @@ The original datasets are **not included**, as they are owned by third parties. 
 - **JusBrasilRec** – Domingues et al., 2023 [Link](https://link.springer.com/article/10.1007/s10506-023-09378-3)  
 - **Xing** – Abel et al., 2016 [Link](https://dl.acm.org/doi/10.1145/2959100.2959196)  
 - **Music4All** – Pegoraro Santana et al., 2020 [Link](https://ieeexplore.ieee.org/document/9094737)  
-- **RetailRocket** – Zykov, 2022 [Kaggle Link](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)  
-- **MIND** – Wu et al., 2020 [DOI:10.18653/v1/2020.acl-main.331](https://doi.org/10.18653/v1/2020.acl-main.331)  
+- **RetailRocket** – Zykov, 2022 [Link](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)  
+- **MIND** – Wu et al., 2020 [Link](https://doi.org/10.18653/v1/2020.acl-main.331)  
 - **Trivago** – Knees et al., 2019 [Link](https://dl.acm.org/doi/10.1145/3298689.3347008)  
 
 The preprocessed slices included here are derived from these datasets and reflect the subsets actually used in our experiments, including session filtering and item selection steps.
